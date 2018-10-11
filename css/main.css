@@ -1,0 +1,60 @@
+html {
+  background-color: #c9b5ab;
+  font-family: font-family: 'PT Serif', serif;
+  color: #222;
+}
+
+h1, h2 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #3f1622;
+}
+
+img {
+  width: 100%;
+}
+
+.fancy {
+  font-size: 1.5rem;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: center;
+}
+
+nav {
+  font-size: 1.125rem;
+  font-weight: bold;
+  font-family: "Pt Sans", sans-serif;
+}
+
+nav ol {
+  list-style-type: none;
+}
+
+nav a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+nav a:hover {
+color: #3f1622;
+text-decoration: underline;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+}
+
+.time {
+  font-size: 1.125rem;
+  font-weight: bold;
+  font-family: "Pt Sans", sans-serif;
+}
+
+.bold {
+  font-size: 1.125rem;
+  font-weight: bold;
+  font-family: "Pt Sans", sans-serif;
+}
